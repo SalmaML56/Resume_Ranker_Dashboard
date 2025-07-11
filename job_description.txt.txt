@@ -1,0 +1,8 @@
+Job Title: Machine Learning Engineer  
+Location: Remote  
+Requirements:
+- Strong Python & SQL skills
+- Experience with Scikit-learn, Pandas, and NumPy
+- Hands-on with NLP tasks using BERT or spaCy
+- Knowledge of Flask APIs and deployment
+- GitHub portfolio showcasing ML projects

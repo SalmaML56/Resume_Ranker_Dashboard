@@ -1,0 +1,6 @@
+Ali Raza  
+Skills: Python, SQL, Scikit-learn, Pandas, NumPy  
+Experience: Built spam detection system, loan approval classifier  
+NLP Experience: Sentiment analysis using spaCy  
+Deployment: ML pipeline deployed via Flask API  
+GitHub: github.com/alirazaml
